@@ -2,7 +2,7 @@
 
 
 My name is Yaşar.
-- 🔭 I’m currently working on MVC
+- 🔭 I’m currently working on MVC as a Full Stack
 
 
 How to reach me
