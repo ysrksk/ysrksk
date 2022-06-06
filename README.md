@@ -12,5 +12,20 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+Technologies
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="max-width: 100%;">
+
+Html5
+
+Css
+
+JavaScript
+
+bootstrap
+
+bootstrap
+
+
 
