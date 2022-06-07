@@ -22,7 +22,7 @@
 
 Connect With me:
 
-<p dir="auto"><a href="https://www.linkedin.com/in/yasarkusku/" rel="nofollow"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px" style="max-width: 100%;">   </a><a href="http://www.linkedin.com/in/pelinhangisi/" rel="nofollow">www.linkedin.com/in/yasarkusku</a>
+<p dir="auto"><a href="https://www.linkedin.com/in/yasarkusku/" rel="nofollow"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px" style="max-width: 100%;">   </a><a href="http://www.linkedin.com/in/yasarkusku/" rel="nofollow">www.linkedin.com/in/yasarkusku</a>
 <br></p>
 <p dir="auto"><a href="https://yasarkusku@hotmail.com" rel="nofollow"><img align="left" src="https://camo.githubusercontent.com/2894e78d55bdfa5cf008e3918dbc6e1cf80dad4366903a274ed265ed4d66bbd1/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3637372f3331352f706e672d7472616e73706172656e742d676d61696c2d636f6d70757465722d69636f6e732d656d61696c2d676f6f676c652d706c61792d676d61696c2d616e676c652d72656374616e676c652d747269616e676c652e706e67" alt="Gmail" width="21px" data-canonical-src="https://w7.pngwing.com/pngs/677/315/png-transparent-gmail-computer-icons-email-google-play-gmail-angle-rectangle-triangle.png" style="max-width: 100%;"></a><a href="mailto:https://yasarkusku@hotmail.com">https://yasarkusku@hotmail.com</a>
 <br></p>
