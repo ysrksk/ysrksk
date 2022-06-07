@@ -5,7 +5,7 @@
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/f96fe25b150c6d62d6ff99b9f21006595c8cd757a24ebddf9d158297337cf6d1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" target="_blank" hidden="">       
         </a>
         
-</br>            
+           
 
 - 🔭 I’m currently working on MVC as a Full Stack Developer                     
 - 🌱 I’m currently improving my abilities about JavaScript, .NET
@@ -13,8 +13,7 @@
 - 💻 I love coding
    
 </br>
-</br>            
-</br>            
+          
 
           
 
