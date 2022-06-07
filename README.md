@@ -74,5 +74,4 @@ Tools:
 Statistic:
 
 ![En İyi Diller Kartı]( https://github-readme-stats.vercel.app/api/top-langs/?username=ysrksk&layout=compact )
-![Github istatistikleri]( https://github-readme-stats.vercel.app/api?username=ysrksk&theme=highcontrast&show_icons=true&count_private=true )
 
