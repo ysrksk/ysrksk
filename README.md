@@ -22,7 +22,17 @@
 
 Connect With me:
 
-<a href="https://linkedin.com/in/yasarkusku" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/b0d679e1e6f51de0daaaf64a827865ef3884b73b1902a3a42dc42dc56f925b1d/68747470733a2f2f76656c616e6f76617363756c61722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f4c696e6b6564496e2e706e67" alt="yasarkusku" height="30" width="30" data-canonical-src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" style="max-width: 100%;"></a> <a href="https://www.hackerrank.com/yasarkusku" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/e18d7eecc06ed03c815d8d15d2af57af689d02c6c61ab16d4a64d43050ee60f8/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d616e642d6272616e64732d61646f62652f3531322f3136305f4861636b657272616e6b2d3531322e706e67" alt="yasarkusku" height="30" width="30" data-canonical-src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://www.linkedin.com/in/yasarkusku/" rel="nofollow"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px" style="max-width: 100%;">   </a><a href="http://www.linkedin.com/in/pelinhangisi/" rel="nofollow">www.linkedin.com/in/yasarkusku</a>
+<br></p>
+<p dir="auto"><a href="https://yasarkusku@hotmail.com" rel="nofollow"><img align="left" src="https://camo.githubusercontent.com/2894e78d55bdfa5cf008e3918dbc6e1cf80dad4366903a274ed265ed4d66bbd1/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3637372f3331352f706e672d7472616e73706172656e742d676d61696c2d636f6d70757465722d69636f6e732d656d61696c2d676f6f676c652d706c61792d676d61696c2d616e676c652d72656374616e676c652d747269616e676c652e706e67" alt="Gmail" width="21px" data-canonical-src="https://w7.pngwing.com/pngs/677/315/png-transparent-gmail-computer-icons-email-google-play-gmail-angle-rectangle-triangle.png" style="max-width: 100%;"></a><a href="mailto:https://yasarkusku@hotmail.com">https://yasarkusku@hotmail.com</a>
+<br></p>
+
+</br>            
+
+
+My Hackerrank Profile:
+
+<a href="https://www.hackerrank.com/yasarkusku" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/e18d7eecc06ed03c815d8d15d2af57af689d02c6c61ab16d4a64d43050ee60f8/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d616e642d6272616e64732d61646f62652f3531322f3136305f4861636b657272616e6b2d3531322e706e67" alt="yasarkusku" height="30" width="30" data-canonical-src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" style="max-width: 100%;"></a>
 
 
             
@@ -59,7 +69,10 @@ Tools:
             
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30" style="max-width: 100%;">      <img src="https://camo.githubusercontent.com/9f1816fe8f44878d77803324ce8e3e1c4d2afc4e3f167b237e93848d3597d4fc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3130323470782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="vscode" width="30" height="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" style="max-width: 100%;">          <img src="https://camo.githubusercontent.com/9197204cb5fe8007252fd5b2b6cc47b9c4318e16836fe645eccd35941b9ecb9c/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d616e642d6272616e64732f3531322f39315f446973636f72645f6c6f676f5f6c6f676f732d3531322e706e67" alt="discord" width="30" height="30" data-canonical-src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" style="max-width: 100%;">
 
+</br>            
 
+Statistic:
 
+![En İyi Diller Kartı]( https://github-readme-stats.vercel.app/api/top-langs/?username=ysrksk&layout=compact )
 
 
