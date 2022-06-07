@@ -8,7 +8,6 @@
 </br>            
 
 - 🔭 I’m currently working on MVC as a Full Stack Developer                     
-- 📫 How to reach me: yasarkusku@hotmail.com
 - 🌱 I’m currently improving my abilities about JavaScript, .NET
 - 👀 I love searching about anything
 - 💻 I love coding
