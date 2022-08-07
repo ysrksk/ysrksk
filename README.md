@@ -8,7 +8,7 @@
            
 
 - 🔭 I’m currently working on MVC as a Full Stack Developer                     
-- 🌱 I’m currently improving my abilities about JavaScript, .NET
+- 🌱 I’m currently improving my abilities about JavaScript, .NET, React
 - 👀 I love searching about anything
 - 💻 I love coding
    
