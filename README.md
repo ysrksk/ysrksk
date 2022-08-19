@@ -56,6 +56,8 @@ Languages:
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30" height="30" align="left" style="max-width: 100%;">
 
+<img src="https://camo.githubusercontent.com/22c60db64e6ede1bbc4ecb83d5e020a9039efb4df30886324c4aab9e955de7ed/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34372f52656163742e7376672f3132303070782d52656163742e7376672e706e67" alt="react" width="33" height="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" style="max-width: 100%;">
+
 <img src="https://camo.githubusercontent.com/9da8dcab869ba1c5c82b4499b523e33ba56f7fbd68cbf2a41ff141084896d61d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65652f2e4e45545f436f72655f4c6f676f2e7376672f3132303070782d2e4e45545f436f72655f4c6f676f2e7376672e706e67" alt="dotnetcore" width="30" height="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" style="max-width: 100%;">
 </p>
 
