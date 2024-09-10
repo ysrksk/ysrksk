@@ -12,7 +12,7 @@
 ---
 
 - 💻 I'm currently at TKDK;
-- 💪 I already counted on: `.c` | `.c++` | `.c#` |`.java` | `.javaScript` | `.SQL Server` | `.react` ;
+- 💪 I already counted on:  `.c#` | `.javaScript` | `.SQL Server` | `.react` ;
 - ❤ I'm passionate about coding, learning
 - 🔭 an eternal apprentice
 - ✋ I am here
